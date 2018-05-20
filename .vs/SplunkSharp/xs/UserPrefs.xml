@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FAC7491D-2797-4543-9248-1B0FD547996C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SplunkSharp/MainWindow.cs">
+    <Files>
+      <File FileName="SplunkSharp/Program.cs" Line="1" Column="1" />
+      <File FileName="SplunkSharp/MainWindow.cs" Line="124" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SplunkSharp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
